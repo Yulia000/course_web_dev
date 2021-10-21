@@ -1,0 +1,14 @@
+table{
+    width:100%;
+    border-collapse: collapse;
+}
+td,th{
+    border: 1px solid green;
+}
+thead{
+    background-color: hotpink;
+}
+td:hover{
+    background-color: yellow;
+    border-radius: 10px;
+}
